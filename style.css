@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f7f7f7;
+}
+
+.about-section {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.about-section h2 {
+    color: #070505;
+    font-size: 2em;
+}
+
+.about-section p {
+    text-align: justify;
+    color: #050404;
+    line-height: 1.6;
+}
+
+.about-section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* Ajuste este valor conforme necessário */
+}
