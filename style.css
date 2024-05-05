@@ -9,28 +9,36 @@ body {
 .about-section {
     width: 90%;
     margin: auto;
-    padding: 20px;
+    padding: 5px;
     background-color: #fff;
     border: 1px solid #eaeaea;
     border-radius: 5px;
     text-align: center;
-     margin-top: 10px;
+    margin-top: 10px;
+    line-height: 1.6;
+    
 }
 
 .about-section h2 {
     color: #070505;
     font-size: 2em;
+    text-align: center;
+}
+.about-section h3 {
+    color: #070505;
+    text-align: center;
 }
 
 .about-section p {
-    text-align: justify;
+    text-align: center;
     color: #050404;
     line-height: 1.6;
 }
+
 
 .about-section img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%; 
+    width: 50%;
 }
